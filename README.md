@@ -19,3 +19,8 @@ daughterseed_diameters <- c(rep(14.67, 22), rep(15.67, 8), rep(16.67, 10), rep(1
 
 galtonData <- data.frame(parentseed_diameters, daughterseed_diameters)
 ```
+
+## References
+
+* Galton, F. (1894). _Natural inheritance_. MacMillan and Company. 
+* Stanton, J. M. (2001). Galton, Pearson, and the peas: A brief history of linear regression for statistics instructors. _Journal of Statistics Education_, _9_(3), 1-13.
